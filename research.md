@@ -15,5 +15,5 @@ author_profile: true
 {: .text-justify style="font-size: 12pt"}
 
 
-| **Bifurcation Analysis of Linear-threshold Networks for Modeling Epilepsy** <br><br> We show that a network of coupled oscillators with linear-threshold nonlinearities can exhibit oscillations that are characterisitc of epileptic seizures, and that the transition from normal to epileptic oscillations can be modeled as a bifurcation in the parameters of the system. This model is used to gain insight into the dynamic mechanisms underlying epileptic seiuzures. | <img src="/assets/spike_and_slow_annotated.png" width="300px"><img src="/assets/slow_wave.png"> ||
+| **Bifurcation Analysis of Linear-threshold Networks for Modeling Epilepsy** <br><br> We show that a network of coupled oscillators with linear-threshold nonlinearities can exhibit oscillations that are characterisitc of epileptic seizures, and that the transition from normal to epileptic oscillations can be modeled as a bifurcation in the parameters of the system. This model is used to gain insight into the dynamic mechanisms underlying epileptic seiuzures. | <img src="/assets/wilson_cowan.png" width="1200px"> | <img src="/assets/phase.png" width="2100x"> ||
 {: .text-justify style="font-size: 12pt"}
